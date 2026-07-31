@@ -2,7 +2,7 @@
 Repository for course activities, notes, and Projects in Cloud Computing
 # Cloud Computing Course Repository
 
-> *A collection of activities, outputs, and learning resources for SAM101*
+> *A collection of activities, outputs, and learning resources for CCM101*
 
 ## 📌 About This Repository
 
