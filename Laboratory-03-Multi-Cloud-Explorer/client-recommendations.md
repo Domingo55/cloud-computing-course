@@ -42,3 +42,12 @@ Services the client could use:
 3. Amazon RDS – for managing the e-commerce database.
 4. Amazon S3 – for storing product images, files, and other data.
 5. AWS Auto Scaling – for automatically adjusting computing resources based on demand.
+
+| Business Requirement        | Recommended Platform | Justification                                                                                                                                                     |
+| --------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | **AWS**              | AWS offers a wide range of services and flexible pricing, making it suitable for startups with limited budgets that may need to scale quickly.                    |
+| **Enterprise Organization** | **AWS**              | AWS provides a large selection of enterprise services, strong security, and global infrastructure suitable for large organizations.                               |
+| **Microsoft Environment**   | **Azure**            | Azure integrates closely with Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory.                                                 |
+| **AI / Machine Learning**   | **Google Cloud**     | Google Cloud has strong AI and machine-learning capabilities, including specialized tools and infrastructure for developing and training AI models.               |
+| **Kubernetes Deployment**   | **Google Cloud**     | Google Cloud provides Google Kubernetes Engine (GKE), a managed Kubernetes service, and Google originally developed Kubernetes.                                   |
+| **Global Web Application**  | **AWS**              | AWS has a large global infrastructure with multiple regions and Availability Zones, making it suitable for highly available applications serving users worldwide. |
