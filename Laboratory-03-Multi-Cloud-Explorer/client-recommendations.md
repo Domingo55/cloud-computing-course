@@ -8,6 +8,7 @@ Amazon EC2 – for running application servers.
 Amazon S3 – for storing application files and data.
 Amazon RDS – for managing the application's database.
 AWS Lambda – for running serverless application functions.
+
 Client B – University
 
 Recommended Cloud Platform: Microsoft Azure
@@ -18,6 +19,7 @@ Azure Virtual Machines – for running Windows Server workloads.
 Microsoft Entra ID – for identity and access management.
 Azure SQL Database – for managed databases.
 Azure Blob Storage – for storing files and university data.
+
 Client C – AI Research Company
 
 Recommended Cloud Platform: Google Cloud Platform (GCP)
@@ -28,6 +30,7 @@ Google Compute Engine – for high-performance virtual machines and computing wo
 Vertex AI – for developing, training, and deploying machine-learning models.
 Google Kubernetes Engine (GKE) – for running containerized AI applications.
 Cloud Storage – for storing large datasets and trained models.
+
 Client D – Global E-Commerce Company
 
 Recommended Cloud Platform: Amazon Web Services (AWS)
