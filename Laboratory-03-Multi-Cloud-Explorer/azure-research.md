@@ -11,16 +11,16 @@ The Azure Portal is Microsoft's web-based management interface. It allows users 
 
 Four (4) Core Services:
 
-Azure Virtual Machines – provides virtual computers for running applications and operating systems.
-Azure Blob Storage – provides scalable storage for files and unstructured data.
-Azure SQL Database – provides a managed relational database service.
-Azure Functions – allows developers to run code without managing servers.
+1. Azure Virtual Machines – provides virtual computers for running applications and operating systems.
+2. Azure Blob Storage – provides scalable storage for files and unstructured data.
+3. Azure SQL Database – provides a managed relational database service.
+4. Azure Functions – allows developers to run code without managing servers.
 
 Three (3) Advantages:
 
-Microsoft integration – works well with Microsoft products such as Windows Server, Microsoft 365, and Active Directory.
-Global infrastructure – provides many regions for deploying applications worldwide.
-Hybrid cloud support – makes it easier for businesses to connect their existing on-premises systems with cloud services.
+1. Microsoft integration – works well with Microsoft products such as Windows Server, Microsoft 365, and Active Directory.
+2. Global infrastructure – provides many regions for deploying applications worldwide.
+3. Hybrid cloud support – makes it easier for businesses to connect their existing on-premises systems with cloud services.
 
 Typical Enterprise Use Cases:
 Azure is commonly used for enterprise application hosting, Microsoft-based business systems, hybrid cloud environments, data analytics, artificial intelligence, virtual desktops, backup, disaster recovery, and application modernization.
