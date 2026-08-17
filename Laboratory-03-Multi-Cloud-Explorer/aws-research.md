@@ -11,16 +11,16 @@ The AWS Management Console is a web-based interface used to create, configure, m
 
 Four (4) Core Services:
 
-Amazon EC2 – provides virtual servers for running applications.
-Amazon S3 – provides scalable object storage for files and data.
-Amazon RDS – provides managed relational databases.
-AWS Lambda – allows applications to run code without managing servers.
+1. Amazon EC2 – provides virtual servers for running applications.
+2. Amazon S3 – provides scalable object storage for files and data.
+3. Amazon RDS – provides managed relational databases.
+4. AWS Lambda – allows applications to run code without managing servers.
 
 Three (3) Advantages:
 
-Scalability – resources can easily be increased or decreased according to demand.
-Wide range of services – AWS provides a large selection of cloud services for different business needs.
-Global availability – its many regions and Availability Zones support applications used around the world.
+1. Scalability – resources can easily be increased or decreased according to demand.
+2. Wide range of services – AWS provides a large selection of cloud services for different business needs.
+3. Global availability – its many regions and Availability Zones support applications used around the world.
 
 Typical Enterprise Use Cases:
 AWS is commonly used for e-commerce websites, application hosting, data backup, disaster recovery, big-data processing, artificial intelligence, and global web applications.
