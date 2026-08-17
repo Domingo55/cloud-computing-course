@@ -10,10 +10,10 @@ Cloud Management Console:
 The Google Cloud Console is a web-based management interface used to create, configure, monitor, and manage Google Cloud resources and services.
 
 Four (4) Core Services:
-1. Compute Engine – provides virtual machines for running applications.
-2. Cloud Storage – provides scalable object storage for files and data.
-3. Cloud SQL – provides managed relational databases.
-4. Google Kubernetes Engine (GKE) – provides a managed environment for deploying and managing containerized applications.
+Compute Engine – provides virtual machines for running applications.
+Cloud Storage – provides scalable object storage for files and data.
+Cloud SQL – provides managed relational databases.
+Google Kubernetes Engine (GKE) – provides a managed environment for deploying and managing containerized applications.
 
 Three (3) Advantages:
 1. Strong AI and data capabilities – Google Cloud has powerful tools for artificial intelligence, machine learning, and data analytics.
